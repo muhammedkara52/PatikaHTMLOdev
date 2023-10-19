@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 10px;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.td1{
+    background:#eeeeee;
+    text-align: center;
+}
+
+.container{
+    background-color: #7EE5DA;
+    padding: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns:auto auto auto;
+    gap: 10px;
+}
+
+.item{
+    background-color: #70CCC2;
+}
+
+.item ul{
+    text-align: center;
+}
+
+.item ul li{
+    list-style-type: none;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
